@@ -1,3 +1,3 @@
 # quality-control
 
-Scripts for performing quality control on image files. 
+Various scripts for quality control, data extraction, and data creation. 
